@@ -1,0 +1,12 @@
+include ./partials/header
+
+div
+  each item in music
+    div
+      h1 #{item.title}
+      h4 #{item.artist}
+      h5 #{item.album}
+      a(href=item.id) look at it
+  p index
+
+include ./partials/footer
