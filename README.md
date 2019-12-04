@@ -31,7 +31,7 @@ Run:
 
 ## :computer: Technologies Demonstrated
 
-* User Authentication
+* RESTful API & CRUD
 * Pug
 * MongoDB
 * Mongoose
